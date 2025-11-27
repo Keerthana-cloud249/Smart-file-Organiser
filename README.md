@@ -87,6 +87,6 @@ Add notification pop-ups
 
  Developed by
 
-Keerthana Nair
-B.Tech Student
+Keerthana Nair,M Navya ,Kishika Gupta,Jiah bansal
+B.Tech Students,sem1
 Smart File Organizer – College Python Mini Project
